@@ -1,0 +1,24 @@
+# coding: utf-8
+
+# In[1]:
+
+def introduce_myself():
+    Food=input('What is your name?')
+    print('Nice to meet you, '+Food +'!')
+    Name=input('What is your favorite food ?')
+    print('hmm ~~ I love '+Name+' too ! That is yummy!!')
+    Feeling=input('What is your favorite sports? ')
+    print('Wow, that is impressive! I tried to learn '+feeling +' too, but it is too difficult and I gave up..')
+    Sports=input('How are you feeling today?')
+    print('Why are you feeling '+sports,'now?')
+    reason=input('Please tell me..')
+    print('I understand ! Thanks for sharing')
+    print('Goodbye',Food,'I liked chatting with you ! ')
+
+
+# In[2]:
+
+introduce_myself()
+
+
+# In[ ]:
